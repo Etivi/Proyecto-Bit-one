@@ -1,0 +1,53 @@
+* {
+    font-family: 'Poppins', sans-serif;   
+}
+
+body section {
+    padding: 16px;
+}
+
+/* Establecemos la fuente para los encabezados */
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Poppins', sans-serif;
+}
+
+/* Personalizamos el estilo del encabezado h1 */
+h1 {
+	font-weight: 900;
+	font-size: 48px;
+}
+
+/* Personalizamos el estilo del encabezado h2 */
+h2 {
+	font-weight: bold;
+	font-size: 24px;
+}
+
+/* Personalizamos el estilo del encabezado h3 */
+h3 {
+	font-weight: bold;
+	font-size: 18px;
+}
+
+/* Personalizamos el estilo del encabezado h4 */
+h4 {
+	font-weight: bold;
+	font-size: 1.2rem;
+}
+
+/* Personalizamos el estilo del encabezado h5 */
+h5 {
+	font-weight: bold;
+	font-size: 1rem;
+}
+
+/* Personalizamos el estilo del encabezado h6 */
+h6 {
+	font-weight: bold;
+	font-size: 0.8rem;
+}
+
+p {
+    font-weight: 400;
+    font-size: 12px;
+}

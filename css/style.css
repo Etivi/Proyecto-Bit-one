@@ -1,0 +1,42 @@
+
+
+.card-etivi {
+    width: 375px;
+    height: 1023px;
+    background-color: #0B071B;
+    color: white; 
+    
+}
+
+.inicio-etivi-ai {
+    background-image: url(../assets/fondo_estrellas.png);
+    color: #9197A4;
+}
+
+.form-control {
+    border: 1px solid #9197A4;
+    background-color: #0B071B;
+}
+
+.btn-primary {
+    background: linear-gradient(90deg, rgba(114,255,255,1) 0%, rgba(36,120,129,1) 100%);
+    padding: 12px;
+    border: none;
+
+}
+
+.btn-primary:hover {
+    background-color: #72ffff;
+}
+
+.btn-secondary {
+    background-color: #272337;
+    padding: 12px;
+    border: none;
+}
+
+.btn-secondary:hover {
+    background-color: #565e64;
+}
+
+
